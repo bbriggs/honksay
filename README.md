@@ -14,4 +14,4 @@ It's like cowsay.
 
 ## Contributing
 
-PRs welcome. Like, very welcome. Have you seen my code? I need all the help I can get, dude.
+PRs welcome. Like, very welcome. Have you seen my code? I need all the help I can get, dude. Maybe make it a Hacktoberfest thing!
